@@ -79,15 +79,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 
 ---
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=dark&no-frame=true&margin-w=4)
-
----
 
 ## GitHub Stats
 
 <div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=dark&no-frame=true&margin-w=4)
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=venkatasivanaga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
