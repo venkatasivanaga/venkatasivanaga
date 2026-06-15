@@ -80,6 +80,10 @@
 
 ---
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=dark&no-frame=true&margin-w=4)
+
+---
+
 ## GitHub Stats
 
 <div align="center">
