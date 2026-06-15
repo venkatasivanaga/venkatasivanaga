@@ -83,6 +83,15 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=venkatasivanaga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=venkatasivanaga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+
+
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=venkatasivanaga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+
+  
 </div>
 
 ---
