@@ -79,6 +79,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
 
 ---
+## GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=dark&no-frame=true&margin-w=4)
 
