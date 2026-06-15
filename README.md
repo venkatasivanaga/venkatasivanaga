@@ -70,7 +70,6 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-181717?style=flat&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=flat&logo=jira&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -80,11 +79,17 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies"/>
+</div>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
-
-[![Trophies](https://trophy.gitprofile.app/api?username=venkatasivanaga&theme=dark_dimmed&column=7&margin-w=4)](https://github.com/venkatasivanaga)
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=venkatasivanaga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
@@ -99,7 +104,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=venkatasivanaga&color=blue&style=flat" alt="Profile views" />
 </div>
-
-
-
-
