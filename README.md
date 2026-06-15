@@ -84,7 +84,7 @@
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=venkatasivanaga&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/venkatasivanaga)
+[![Trophies](https://trophy.gitprofile.app/api?username=venkatasivanaga&theme=dark_dimmed&column=7&margin-w=4)](https://github.com/venkatasivanaga)
 
 ![Stats](https://github-readme-stats.shion.dev/api?username=venkatasivanaga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
